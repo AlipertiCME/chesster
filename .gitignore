@@ -29,3 +29,27 @@ codegen/
 
 # Octave session info
 octave-workspace
+
+# Ignore SolidWorks files
+*.sldprt
+*.sldasm
+
+# Ignore SolidWorks backup files
+*.sldbak
+*.slddrt
+*.slddrw
+
+# Ignore SolidWorks temporary files and folders
+~$*
+*.sldasm.*
+*.sldprt.*
+_Pvt_*
+
+# Ignore SolidWorks Toolbox data
+*_sldlfp/
+
+# Ignore SolidWorks PDM related files
+*_sldprt.pdm
+*_sldasm.pdm
+*_slddrw.pdm
+
