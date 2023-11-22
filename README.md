@@ -8,9 +8,9 @@ After completing ME202 and ME201 - Intro to Mechanical Engineering Desgin, mecha
 Chesster conssits of three primary programs 
 1. A rudimentary computer vision program using an OV7670 connected to an Arduino Uno and Matlab. The Matlab functions takes images of the chess board and using matrix operations determines what moves have been made.
 2. A basic chess engine using Matlab. The engine is basd on a two layer pruned decision tree algorithm which is very useful for teaching matrix operations in Matlab but does not make for a very skilled opponent.
-3. A gantry based robot that is built 
+3. A gantry based robot that is built using 8020 and 3D printed parts modeled in Soldiworks.
 
-### required Hardware 
+### Required Hardware 
 1. OV7670 Camera module
 2. 2xArduino Uno or Arduino Mega
 3. 3x Push momentary buttons (Model number used: )
@@ -18,7 +18,10 @@ Chesster conssits of three primary programs
 5. 24V Power supply
 6. 2x NEMA 17 Stepper Motors (Model number used: )
 7. 1x Linear Actuator (Model number used: )
-8. Jumper wires + bread board or pcb 
+8. Jumper wires + bread board or pcb
+
+### Running Program
+
 
 ### Getting Started 
 ## Matlab
