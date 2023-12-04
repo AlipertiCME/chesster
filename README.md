@@ -1,4 +1,4 @@
-# chesster
+# chesster - Cerebal Harnessing Education Sidekick for Strategic Engineering Research
 Chess playing companion for teaching Matlab, Arduino, and Solidworks
 
 ## Project Overview 
