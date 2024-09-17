@@ -1,11 +1,12 @@
 %% Chesster main loop  
 
 %% Config
-controllerSerialPort = "COM11";
-baudRate = 9600;
-camDir = 'C:\Program Files (x86)\Java\jdk1.8.0_74\bin';
-landingDir = 'C:\out';
-camKillBatDir = 'C:\Users\christopher.aliperti\OneDrive - West Point\Desktop\Research\Chess\Bash\killCam.bat';
+load configmat
+%controllerSerialPort = "COM11";
+%baudRate = 9600;
+%camDir = 'C:\Program Files (x86)\Java\jdk1.8.0_74\bin';
+%landingDir = 'C:\out';
+%camKillBatDir = 'C:\Users\christopher.aliperti\OneDrive - West Point\Desktop\Research\Chess\Bash\killCam.bat';
 
 %% Initialize game parametrs 
 calib = input("Press Y to recalibrate camera \n otherwise press any other key: \n","s");
